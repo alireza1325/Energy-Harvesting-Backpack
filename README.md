@@ -7,7 +7,7 @@ Here is the pictura of the backpack model
 
 ![Assem1 - Copy](https://user-images.githubusercontent.com/57262710/218341992-2602a50f-2bec-40ed-b079-639e4606b49a.JPG)
 
-And this is the simulated dynamic model in simulink using powerful simscape library
+And this is the simulated dynamic model in Simulink using the powerful simscape library. This includes the mechanical section consisting of springs, rack and pinions and backpack load mass, and electrical parts such as generator and resistors.
 
 ![image](https://user-images.githubusercontent.com/57262710/218342362-1be1c8a5-ab66-49a1-9881-f95a3259303e.png)
 
